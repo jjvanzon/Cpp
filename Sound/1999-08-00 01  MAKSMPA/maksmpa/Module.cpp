@@ -1,0 +1,27 @@
+// Module.cpp: implementation of the Module class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "maksmpa.h"
+#include "Module.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+Module::Module()
+{
+
+}
+
+Module::~Module()
+{
+
+}
