@@ -1,6 +1,8 @@
 # Microsoft Visual C++ 5 Sound Programs
 *Author: Jan-Joost van Zon*
 
+These are all in the Sound folder.
+
 | ········Version········ | ···························Name··························· | Description |
 | --- | --- | --- |
 | 1999-06-00 01 | High Equalizer C++ (without UI) (1) | The equalization routine from High Equalized programmed in VB3 redone in Microsoft Visual C++ 5. It is much faster, but I did not give it a proper user interface.
